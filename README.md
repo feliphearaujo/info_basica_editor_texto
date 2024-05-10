@@ -1,0 +1,1 @@
+# info_basica_editor_texto
